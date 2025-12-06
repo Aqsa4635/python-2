@@ -1,0 +1,12 @@
+a=9.12
+b=45
+c="Aqsa"
+d=['green','red','blue']
+e=(1,2,3,4,5)
+f={"name":"aqsa","age":"27","city":"srinagar"}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
