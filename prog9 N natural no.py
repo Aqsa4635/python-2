@@ -4,4 +4,4 @@ i=1
 while i <= num:
     sum=sum+i
     i=i+1
-print("sum=", sum)
+print(f"sum of first {num} numbers =", sum)
